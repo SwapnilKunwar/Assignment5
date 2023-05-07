@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+    <string name="step_count">%d</string>
+
+</resources>
